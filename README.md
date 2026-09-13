@@ -63,13 +63,6 @@
 
 Подробности — в `bug-report.xlsx`.
 
-## Особенности тренажёра
-
-Это **не баги**, а намеренные отклонения restful-booker от стандарта HTTP:
-
-- `GET /ping` возвращает `201 Created` вместо `200 OK`.
-- `DELETE /booking/:id` возвращает `201 Created` вместо `204 No Content`.
-
 ## Технологии
 
 - Postman 12.27.1
