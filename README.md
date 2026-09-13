@@ -6,7 +6,7 @@
 
 | Файл | Описание |
 |---|---|
-| `Restful Booker API Tests.postman_collection.json` | Экспортированная Postman-коллекция с запросами и тестами |
+| `Restful Booker API Tests.json` | Экспортированная Postman-коллекция с запросами и тестами |
 | `test-cases.xlsx` | Позитивные и негативные тест-кейсы по всем эндпоинтам |
 | `bug-report.xlsx` | Баг-репорт по найденным дефектам |
 | `README.md` | Описание проекта |
